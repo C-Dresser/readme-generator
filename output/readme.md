@@ -1,7 +1,7 @@
 
   ![LicenseBadge](https://img.shields.io/badge/License-MIT-brightgreen)
 
-  # README-Generator
+  # Test
   
   
   ## Table of Contents
@@ -15,14 +15,13 @@
     
   
   ## Description
-  This application will generate a professional README based on user input.
+  This app will test the reame generator
   
   ## Installation
-  Follow installation instructions.
+  Follow install instructions
   
   ## Usage
-  Run node and follow prompts in the terminal. Upon completion a README will be generated in the output folder. Here's a video of the process:
-  [Video Link](https://photos.app.goo.gl/ESwoVCEQR8y7EHQQ9)
+  Run node and follow the prompts
   
   ## License
   This app is using the MIT license, linked here:
@@ -32,11 +31,9 @@
   Contributions to this app can be made here: [App Link](https://github.com/C-Dresser/readme-generator)
   
   ## Tests
-  Write and run a test.
+  Run a test!
 
   ## Questions
   If you have any questions, they can be directed here:
-  [Profile Link](https://github.com/C-Dresser) or email me at cdcelticsfan@gmail.com.
+  [Profile Link](https://github.com/C-Dresser) or email me at none@donotreply.com.
     
-
-THIS README WAS GENERATED AUTOMATICALLY WITH THIS APPLICATION!!!
